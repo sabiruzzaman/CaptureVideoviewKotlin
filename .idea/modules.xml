@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/captureframesvideoviewKotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/captureframesvideoviewKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/captureframesvideoviewKotlin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/captureframesvideoviewKotlin.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/captureframesvideoviewKotlin.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/captureframesvideoviewKotlin.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/captureframesvideoviewKotlin.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/captureframesvideoviewKotlin.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/captureframesvideoviewKotlin.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/captureframesvideoviewKotlin.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
